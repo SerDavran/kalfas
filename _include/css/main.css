@@ -1401,3 +1401,9 @@ footer .credits {
 .fancybox-title-float-wrap .child {
 	//display: none !important;
 }
+
+.ufasma{
+	color: white;
+	font-size: 17px;
+	font-weight: 300;
+}
