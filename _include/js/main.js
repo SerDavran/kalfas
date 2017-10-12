@@ -78,11 +78,11 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : '_include/img/slider-images/6.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/exooooo.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/1.png', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/3.jpeg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/4.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/5.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''}
+											{image : '_include/img/slider-images/WALL-island-A0N04.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/SUNTHETO-JIOVE-004.jpg', title : '<div class="slide-content">ΕΠΙΠΛΑ ΚΑΛΦΑΣ</div>', thumb : '', url : ''}
 											 
 									],
 									
